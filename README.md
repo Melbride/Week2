@@ -1,1 +1,1 @@
-# Week2
+This repository contains my Week2 Project. The project was to analyze the WeatherData dataset and to draw insights from the analysis. I analyzed using pandas and used seaborn, matplolib for drawing graphs. I explained the code in text cells .
