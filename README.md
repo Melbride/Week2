@@ -8,5 +8,5 @@ This project involves analyzing the WeatherData.csv dataset to gain insights int
   - `Week2_Project`.ipynb: Jupyter Notebook containing the code and explanations for the analysis.
 
 
-The dataset contains columns; Weather, Date/Time	Temp_C	Dew Point Temp_C	Rel Hum_%	Wind Speed_km/h	Visibility_km	Press_kPa, Months.
-At the end of the notebook I wrote my insights I gained after analysis.
+- The dataset contains columns; Weather, Date/Time	Temp_C	Dew Point Temp_C	Rel Hum_%	Wind Speed_km/h	Visibility_km	Press_kPa, Months.
+- At the end of the notebook I wrote my insights I gained after analysis.
