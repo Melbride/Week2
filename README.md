@@ -10,4 +10,4 @@ This project involves analyzing the WeatherData.csv dataset to gain insights int
 
 - The dataset contains columns; Weather, Date/Time,	Temp_C,	Dew Point Temp_C,	Rel Hum_%,	Wind Speed_km/h,	Visibility_km,	Press_kPa.
 - I added the Months column into the dataframe as I was doing the analysis.
-- At the end of the notebook I wrote my insights I gained after analysis.
+- At the end of the notebook I wrote the insights I gained during the analysis.
